@@ -3,15 +3,18 @@ Perform ETL and data cleaning/loading on several movie datasets to predict popul
 
 ### Software
 
-Jupyter Notebook
-VS Code
-PostgreSQL
-pgAdmin
+Jupyter Notebook \
+VS Code \
+PostgreSQL \
+pgAdmin \
 Pandas - Python \
 SQL 
 
+### Data Sources
 
+- Wikipedia Metadata: wikipedia-movies.json [Wiki-Movies](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_8/wikipedia-movies.json)
 
+- Kaggle Data movies_metadata.csv, ratings.csv [The Movie Database](https://www.themoviedb.org/)
 
 ## Overview 
 
